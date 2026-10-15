@@ -1,0 +1,30 @@
+# Môi trường Python và bộ nhớ đệm
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Dữ liệu crawl, checkpoint, kết quả, snapshot và log được tạo khi chạy
+/output/
+*.log
+*.tmp
+*.part
+
+# Cấu hình cá nhân và bí mật (giữ .streamlit/config.toml)
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.idea/
+.vscode/
+
+# Tệp hệ điều hành
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,32 @@
+{
+  "model": "DBI public-text sentiment, v2 — Vận hành dịch vụ số công khai",
+  "company_mapping": {"ZaloPay": "VNG (VNZ)", "VNG": "VNG (VNZ)", "VPBank": "VPBank", "VCB": "VCB", "HDBank": "HDBank", "ACB": "ACB"},
+  "pillars": {
+    "Khách hàng": {"max_score": 20, "indicators": {
+      "trai_nghiem": "trải nghiệm|giao diện|dễ dùng|khó dùng|dễ sử dụng|tiện lợi|hài lòng|ổn định|lỗi|lag|crash|chậm|mượt|không vào được",
+      "ho_tro": "hỗ trợ khách hàng|chăm sóc khách hàng|tổng đài|hotline|CSKH",
+      "tiep_can": "khách hàng số|người dùng|giao dịch số|kênh số|onboarding|mở tài khoản|eKYC|Digibank|ACB ONE|VPBank NEO"
+    }},
+    "Công nghệ": {"max_score": 20, "indicators": {
+      "ha_tang": "cloud|đám mây|core banking|ngân hàng lõi|trung tâm dữ liệu|hạ tầng công nghệ",
+      "ket_noi": "open banking|ngân hàng mở|open api|(?-i:\\bAPI\\b)|kết nối hệ thống",
+      "an_toan": "bảo mật|an ninh mạng|sinh trắc|xác thực|tấn công mạng|rò rỉ dữ liệu|lộ dữ liệu"
+    }},
+    "Dữ liệu": {"max_score": 20, "indicators": {
+      "nen_tang_du_lieu": "data lake|data warehouse|kho dữ liệu|nền tảng dữ liệu|dữ liệu lớn|big data",
+      "quan_tri_du_lieu": "quản trị dữ liệu|chất lượng dữ liệu|quản lý dữ liệu|bảo vệ dữ liệu|dữ liệu cá nhân",
+      "ung_dung_du_lieu": "phân tích dữ liệu|trí tuệ nhân tạo|GenAI|học máy|machine learning|(?-i:\\bAI\\b)"
+    }},
+    "Vận hành": {"max_score": 20, "definition": "Triển khai và vận hành dịch vụ số, kết nối dịch vụ/đối tác, tự động hóa và hiệu quả được công bố; ký thỏa thuận chưa đồng nghĩa đã vận hành", "indicators": {
+      "tu_dong_hoa": "tự động hóa|tự động hoá|(?-i:\\bRPA\\b)|(?-i:\\bSTP\\b)|xử lý thẳng|RLOS|CLOS",
+      "quy_trinh": "số hóa quy trình|số hoá quy trình|quy trình số|quy trình điện tử|quy trình trực tuyến",
+      "hieu_qua": "chi phí vận hành|chi phí giao dịch|thời gian xử lý|thời gian giao dịch|hiệu quả vận hành|tối ưu vận hành|tối ưu hóa vận hành|năng suất|(?-i:\\bCIR\\b)",
+      "van_hanh_dich_vu_so": "ra mắt|đưa vào hoạt động|đưa vào vận hành|triển khai dịch vụ|triển khai sản phẩm|bổ sung tính năng|mở rộng dịch vụ|cung cấp dịch vụ|cung cấp tiện ích|hợp tác|liên kết|đối tác|điểm chấp nhận|đơn vị chấp nhận|hệ sinh thái|kết nối dịch vụ|kết nối hơn"
+    }},
+    "Chiến lược": {"max_score": 20, "indicators": {
+      "dinh_huong": "chiến lược|lộ trình|kế hoạch chuyển đổi|mục tiêu chuyển đổi|định hướng số",
+      "quan_tri": "ban chuyển đổi|ủy ban chuyển đổi|quản trị số|quản trị công nghệ|quản lý công nghệ",
+      "nguon_luc": "đầu tư công nghệ|đầu tư cho công nghệ|ngân sách|nhân sự công nghệ|nhân lực công nghệ|đào tạo số|năng lực số"
+    }}
+  }
+}

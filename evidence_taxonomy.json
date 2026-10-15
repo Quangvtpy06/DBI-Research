@@ -1,0 +1,29 @@
+{
+  "version": "pilot-1",
+  "status": "Khung đề xuất để thí điểm, chưa phải tiêu chuẩn DBI chính thức; chưa có trọng số",
+  "pillars": {
+    "P1": {"label": "Chiến lược và quản trị số", "indicators": {
+      "digital_strategy": "chiến lược|lộ trình|kế hoạch chuyển đổi|mục tiêu chuyển đổi",
+      "digital_governance": "ban chuyển đổi|ủy ban chuyển đổi|quản trị số|quản trị công nghệ|quản lý công nghệ",
+      "digital_resources": "ngân sách|đầu tư công nghệ|đầu tư cho công nghệ|nhân lực công nghệ|nhân sự công nghệ|đào tạo số|năng lực số"
+    }},
+    "P2": {"label": "Công nghệ và dữ liệu", "indicators": {
+      "ai_data": "trí tuệ nhân tạo|GenAI|big data|dữ liệu lớn|quản trị dữ liệu|data lake|data warehouse|phân tích dữ liệu|(?-i:\\bAI\\b)",
+      "infrastructure": "cloud|đám mây|core banking|ngân hàng lõi|trung tâm dữ liệu|hạ tầng công nghệ|phần mềm",
+      "integration": "open banking|ngân hàng mở|open api|(?-i:\\bAPI\\b)|kết nối hệ thống"
+    }},
+    "P3": {"label": "Sản phẩm và mức độ sử dụng số", "indicators": {
+      "digital_products": "sản phẩm số|dịch vụ số|ngân hàng số|thanh toán số|thanh toán điện tử|ví điện tử|mở tài khoản|eKYC|định danh điện tử|VNeID|quét QR",
+      "digital_adoption": "khách hàng|người dùng|giao dịch|onboarding|tỷ lệ sử dụng"
+    }},
+    "P4": {"label": "Vận hành và hiệu quả số", "indicators": {
+      "automation": "tự động hóa|tự động hoá|(?-i:\\bRPA\\b)|(?-i:\\bSTP\\b)|xử lý thẳng|RLOS|CLOS|số hóa quy trình|số hoá quy trình",
+      "operating_efficiency": "thời gian xử lý|thời gian giao dịch|chi phí giao dịch|chi phí vận hành|năng suất|(?-i:\\bCIR\\b)"
+    }},
+    "P5": {"label": "Trải nghiệm, độ tin cậy và an toàn", "indicators": {
+      "usability_support": "dễ dùng|khó dùng|dễ sử dụng|giao diện|trải nghiệm|hỗ trợ khách hàng|hỗ trợ kỹ thuật|chăm sóc khách hàng|tổng đài|hotline|tiện lợi|hài lòng",
+      "reliability": "lỗi|gián đoạn|ổn định|không vào được|không đăng nhập|không chuyển|lag|crash|chậm|mượt|treo",
+      "security": "bảo mật|an ninh mạng|sinh trắc|OTP|xác thực|lừa đảo|gian lận|rò rỉ|lộ dữ liệu|tấn công mạng"
+    }}
+  }
+}

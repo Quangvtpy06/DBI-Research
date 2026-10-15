@@ -1,0 +1,103 @@
+{
+  "as_of": "2026-10-13",
+  "documents": [
+    {
+      "id": "VNZ_AR_2025",
+      "symbol": "VNZ",
+      "year": 2025,
+      "kind": "annual",
+      "period": "BCTN 2025",
+      "url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf",
+      "source_page": "https://vng.com.vn/news/shareholders/annual-report-2025.html"
+    },
+    {
+      "id": "VNZ_FS_2026_H1",
+      "symbol": "VNZ",
+      "year": 2026,
+      "kind": "financial",
+      "consolidated": true,
+      "period": "BCTC hợp nhất bán niên 2026",
+      "url": "https://cms-investor-cdn.vng.com.vn/VNGG_2026_BCTC_BCTC_hop_nhat_1_H26_VN_execd_fbdffecf7e.pdf",
+      "source_page": "https://ir.vng.com.vn/vi/financials/financial-statement/1h-2026"
+    },
+    {
+      "id": "VPB_AR_2025",
+      "symbol": "VPB",
+      "year": 2025,
+      "kind": "annual",
+      "period": "BCTN 2025",
+      "url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf",
+      "source_page": "https://www.vpbank.com.vn/quan-he-nha-dau-tu/bao-cao-thuong-nien/bao-cao-thuong-nien-nam-2025"
+    },
+    {
+      "id": "ACB_AR_2025",
+      "symbol": "ACB",
+      "year": 2025,
+      "kind": "annual",
+      "period": "BCTN 2025",
+      "url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf",
+      "source_page": "https://acb.com.vn/nha-dau-tu/bao-cao-thuong-nien-2025"
+    },
+    {
+      "id": "HDB_AR_2025",
+      "symbol": "HDB",
+      "year": 2025,
+      "kind": "annual",
+      "consolidated": false,
+      "period": "Annual Report 2025",
+      "url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf",
+      "source_page": "https://hdbank.com.vn/vi/investor/thong-tin-nha-dau-tu/bao-cao-thuong-nien"
+    },
+    {
+      "id": "HDB_FS_2026_H1",
+      "symbol": "HDB",
+      "year": 2026,
+      "kind": "financial",
+      "consolidated": true,
+      "period": "Consolidated financial statements H1 2026",
+      "url": "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/5E3Kb7vPGM5lAqmqCb5e20260825095107/BAOCAOTAICHINHSOATXETBANNIENNAM2026HOPNHATVN_1787626347024.pdf",
+      "source_page": "https://hdbank.com.vn/vi/investor/thong-tin-nha-dau-tu/bao-cao-tai-chinh"
+    },
+    {
+      "id": "ACB_FS_2026_H1",
+      "symbol": "ACB",
+      "year": 2026,
+      "kind": "financial",
+      "consolidated": true,
+      "period": "Consolidated financial statements H1 2026",
+      "url": "https://acb.com.vn/acbwebsite/files/ACB BCTC hop nhat ban nien 2026_ban tra cuu.pdf",
+      "source_page": "https://acb.com.vn/nha-dau-tu/bao-cao-tai-chinh"
+    },
+    {
+      "id": "VCB_FS_2026_H1",
+      "symbol": "VCB",
+      "year": 2026,
+      "kind": "financial",
+      "consolidated": true,
+      "period": "Consolidated financial statements H1 2026",
+      "url": "https://www.vietcombank.com.vn/-/media/Project/VCB-Sites/VCB/Nha-Dau-tu/Files/BC-dinh-ky/BCTC/2026/20260814---VCB---BCTC-hop-nhat-soat-xet-ban-nien-2026.pdf?ts=00010101000000",
+      "source_page": "https://www.vietcombank.com.vn/vi-VN/Nha-dau-tu"
+    },
+    {
+      "id": "VCB_AR_2025",
+      "symbol": "VCB",
+      "year": 2025,
+      "kind": "annual",
+      "consolidated": false,
+      "period": "Annual Report 2025",
+      "url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf",
+      "source_page": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/vi/"
+    },
+    {
+      "id": "VPB_FS_2026_H1",
+      "symbol": "VPB",
+      "year": 2026,
+      "kind": "financial",
+      "consolidated": true,
+      "period": "BCTC HN H1 2026",
+      "url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-tai-chinh/vas/2026/3.-BCTC-hop-nhat--ban-tra-cuu-.pdf",
+      "source_page": "https://www.vpbank.com.vn/quan-he-nha-dau-tu/bao-cao-tai-chinh/vas/2026/bao-cao-tai-chinh-soat-xet-giua-nien-o-2026",
+      "note": "Official searchable version; reviewed consolidated interim financial statements"
+    }
+  ]
+}
