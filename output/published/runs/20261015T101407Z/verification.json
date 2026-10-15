@@ -1,0 +1,8 @@
+{
+  "generated_at_utc": "2026-10-15T10:14:17.616165+00:00",
+  "companies": 5,
+  "unique_signals": 10543,
+  "no_operation_signals": true,
+  "weights_total": 100,
+  "source_metadata_sha256": "c5380916a4bb4c4c1fe5b36fe3a33624e6585e7bdbafd9ab2bb79c688bc1cd7c"
+}

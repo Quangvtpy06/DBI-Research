@@ -1,0 +1,11 @@
+﻿entity,platform,collected_review_count,period_average_rating,negative_count,neutral_count,positive_count,negative_rate,positive_rate
+ACB,Apple App Store,50,1.38,43,6,1,0.86,0.02
+ACB,Google Play,4135,2.89,2124,159,1852,0.5137,0.4479
+HDBank,Apple App Store,50,1.36,44,3,3,0.88,0.06
+HDBank,Google Play,1694,2.715,927,85,682,0.5472,0.4026
+VCB,Apple App Store,50,1.48,42,5,3,0.84,0.06
+VCB,Google Play,15638,2.982,7552,662,7424,0.4829,0.4747
+VPBank,Apple App Store,50,2.1,36,0,14,0.72,0.28
+VPBank,Google Play,5242,2.945,2573,227,2442,0.4908,0.4659
+ZaloPay,Apple App Store,200,4.96,2,0,198,0.01,0.99
+ZaloPay,Google Play,88446,4.693,6394,498,81554,0.0723,0.9221

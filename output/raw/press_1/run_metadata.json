@@ -1,0 +1,113 @@
+{
+  "start_date": "2025-01-01",
+  "end_date": "2026-10-14",
+  "generated_at_utc": "2026-10-14T15:21:44.854041+00:00",
+  "reference_repository": "https://github.com/Tumiqa/vn-annual-report-miner",
+  "article_rows": 17,
+  "error_rows": 1,
+  "parameters": {
+    "max_results_per_query": 30,
+    "max_articles_per_entity": 150,
+    "min_relevance_score": 4,
+    "workers": 6,
+    "timeout_seconds": 15
+  },
+  "entities": [
+    {
+      "entity": "ZaloPay",
+      "primary_name": "ZaloPay",
+      "ticker": "ZALOPAY",
+      "aliases": [
+        "ZaloPay",
+        "Ví ZaloPay",
+        "Công ty Cổ phần ZION",
+        "ZION"
+      ],
+      "official_domain": "zalopay.vn"
+    },
+    {
+      "entity": "VPBank",
+      "primary_name": "VPBank",
+      "ticker": "VPB",
+      "aliases": [
+        "VPBank",
+        "Ngân hàng Việt Nam Thịnh Vượng",
+        "Ngân hàng TMCP Việt Nam Thịnh Vượng"
+      ],
+      "official_domain": "vpbank.com.vn"
+    },
+    {
+      "entity": "VCB",
+      "primary_name": "Vietcombank",
+      "ticker": "VCB",
+      "aliases": [
+        "Vietcombank",
+        "Ngân hàng Ngoại thương Việt Nam",
+        "Ngân hàng TMCP Ngoại thương Việt Nam"
+      ],
+      "official_domain": "vietcombank.com.vn"
+    },
+    {
+      "entity": "HDBank",
+      "primary_name": "HDBank",
+      "ticker": "HDB",
+      "aliases": [
+        "HDBank",
+        "Ngân hàng Phát triển Thành phố Hồ Chí Minh",
+        "Ngân hàng TMCP Phát triển TP.HCM"
+      ],
+      "official_domain": "hdbank.com.vn"
+    },
+    {
+      "entity": "ACB",
+      "primary_name": "ACB",
+      "ticker": "ACB",
+      "aliases": [
+        "Ngân hàng Á Châu",
+        "Ngân hàng TMCP Á Châu",
+        "Asia Commercial Bank",
+        "ACB"
+      ],
+      "official_domain": "acb.com.vn"
+    }
+  ],
+  "trusted_news_domains": [
+    "baochinhphu.vn",
+    "chinhphu.vn",
+    "sbv.gov.vn",
+    "tapchinganhang.gov.vn",
+    "thoibaonganhang.vn",
+    "nhandan.vn",
+    "qdnd.vn",
+    "vtv.vn",
+    "vov.vn",
+    "vnexpress.net",
+    "vietnamnet.vn",
+    "tuoitre.vn",
+    "thanhnien.vn",
+    "dantri.com.vn",
+    "laodong.vn",
+    "nld.com.vn",
+    "sggp.org.vn",
+    "vneconomy.vn",
+    "baodautu.vn",
+    "tinnhanhchungkhoan.vn",
+    "diendandoanhnghiep.vn",
+    "theleader.vn",
+    "vietnamfinance.vn",
+    "vietstock.vn",
+    "cafef.vn",
+    "vietnamplus.vn",
+    "baotintuc.vn",
+    "plo.vn",
+    "tienphong.vn",
+    "cand.com.vn",
+    "kinhtedothi.vn",
+    "vnbusiness.vn",
+    "vir.com.vn",
+    "ictvietnam.vn",
+    "antoanthongtin.vn",
+    "doanhnhansaigon.vn"
+  ],
+  "method_note": "Search results are candidates, not a complete census of the web. Only official bank websites and allowlisted news domains are accepted. RSS title/summary must identify the entity and contain at least one technology or digital-user-experience term before the article page is fetched."
+}

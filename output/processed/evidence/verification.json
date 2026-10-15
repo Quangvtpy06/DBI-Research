@@ -1,0 +1,29 @@
+{
+  "documents": 1878,
+  "verified_candidates": 2489,
+  "all_quotes_traceable": true,
+  "review_limitations_verified": true,
+  "candidates_by_source": {
+    "press_crawl_2": 1058,
+    "press_crawl_1": 106,
+    "annual_report": 1110,
+    "financial_report": 30,
+    "app_review": 185
+  },
+  "claim_statuses": {
+    "mention_only": 1323,
+    "award_or_recognition": 74,
+    "planned": 285,
+    "reported_deployment": 209,
+    "mixed_plan_and_actual": 91,
+    "reported_incident": 13,
+    "reported_result": 223,
+    "pilot": 18,
+    "promotion_or_instruction": 13,
+    "prevention_or_warning": 47,
+    "not_implemented": 8,
+    "user_experience": 185
+  },
+  "negative_control_sample": 50,
+  "note": "Kiểm tra kỹ thuật, chưa phải precision/recall hoặc nhãn chuẩn"
+}

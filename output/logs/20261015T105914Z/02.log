@@ -1,0 +1,14 @@
+{
+  "documents": 1878,
+  "candidate_rows": 2489,
+  "unique_clusters": 2453,
+  "annotation_sample": 163,
+  "audit": {
+    "press_crawl_2:input": 233,
+    "press_crawl_1:input": 14,
+    "annual_report:input": 723,
+    "annual_report:empty": 2,
+    "financial_report:input": 410,
+    "app_review:input": 500
+  }
+}

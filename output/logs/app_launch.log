@@ -1,0 +1,11 @@
+Bắt đầu: Làm sạch nguồn 2
+Hoàn thành: Làm sạch nguồn 2 (1.7s)
+Bắt đầu: Phân tích sentiment
+Hoàn thành: Phân tích sentiment (43.88s)
+Bắt đầu: Trích xuất ứng viên bằng chứng
+Hoàn thành: Trích xuất ứng viên bằng chứng (4.16s)
+Bắt đầu: Kiểm tra truy vết
+Hoàn thành: Kiểm tra truy vết (0.44s)
+Bắt đầu: Tính R bốn trụ cột và heatmap
+Hoàn thành: Tính R bốn trụ cột và heatmap (10.31s)
+Pipeline hoàn tất. Kết quả: output/results; app: output/published

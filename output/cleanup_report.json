@@ -1,0 +1,10 @@
+{
+  "legacy_files_archived": 17,
+  "duplicate_published_files_removed": [],
+  "migration_script_removed": true,
+  "bootstrap_files_archived": [
+    "heatmap.svg",
+    "run.json",
+    "verification.json"
+  ]
+}

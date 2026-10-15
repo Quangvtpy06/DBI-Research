@@ -1,0 +1,39 @@
+{
+  "run_id": "20261015T110551Z",
+  "started_at_utc": "2026-10-15T11:05:51.141911+00:00",
+  "status": "completed",
+  "stages": [
+    {
+      "name": "Làm sạch nguồn 2",
+      "status": "completed",
+      "started_at_utc": "2026-10-15T11:05:51.142911+00:00",
+      "elapsed_seconds": 1.81,
+      "log": "output\\logs\\20261015T110551Z\\01.log"
+    },
+    {
+      "name": "Trích xuất ứng viên bằng chứng",
+      "status": "completed",
+      "started_at_utc": "2026-10-15T11:05:52.959035+00:00",
+      "elapsed_seconds": 3.72,
+      "log": "output\\logs\\20261015T110551Z\\02.log"
+    },
+    {
+      "name": "Kiểm tra truy vết",
+      "status": "completed",
+      "started_at_utc": "2026-10-15T11:05:56.686323+00:00",
+      "elapsed_seconds": 0.31,
+      "log": "output\\logs\\20261015T110551Z\\03.log"
+    },
+    {
+      "name": "Tính R bốn trụ cột và heatmap",
+      "status": "completed",
+      "started_at_utc": "2026-10-15T11:05:56.995586+00:00",
+      "elapsed_seconds": 6.03,
+      "log": "output\\logs\\20261015T110551Z\\04.log"
+    }
+  ],
+  "mode": "existing_data",
+  "source2_limit": 50,
+  "finished_at_utc": "2026-10-15T11:06:03.036544+00:00",
+  "ranking_sha256": "ff2797153a952d42099ba3c8234efaaec9722fc2ab376475e73f0bb64dbe06da"
+}

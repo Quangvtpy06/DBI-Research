@@ -1,0 +1,83 @@
+﻿company,pillar,indicator,source,score_20,document_count,used_in_comparison
+ACB,Chiến lược,dinh_huong,press,20.0,2,False
+ACB,Chiến lược,dinh_huong,reports,20.0,1,True
+ACB,Chiến lược,nguon_luc,reports,20.0,1,False
+ACB,Công nghệ,an_toan,press,10.0,2,True
+ACB,Công nghệ,an_toan,reports,0.0,1,True
+ACB,Công nghệ,ha_tang,reports,20.0,1,True
+ACB,Dữ liệu,nen_tang_du_lieu,reports,20.0,1,False
+ACB,Dữ liệu,quan_tri_du_lieu,reports,15.0,1,False
+ACB,Dữ liệu,ung_dung_du_lieu,press,20.0,2,False
+ACB,Dữ liệu,ung_dung_du_lieu,reports,18.0769,1,True
+ACB,Khách hàng,ho_tro,reviews,3.1818,22,True
+ACB,Khách hàng,tiep_can,press,20.0,2,True
+ACB,Khách hàng,tiep_can,reviews,9.1111,15,True
+ACB,Khách hàng,trai_nghiem,press,20.0,2,True
+ACB,Khách hàng,trai_nghiem,reports,20.0,1,True
+ACB,Khách hàng,trai_nghiem,reviews,3.0135,1011,True
+HDBank,Chiến lược,dinh_huong,press,20.0,2,False
+HDBank,Chiến lược,dinh_huong,reports,20.0,1,True
+HDBank,Chiến lược,nguon_luc,reports,20.0,1,False
+HDBank,Công nghệ,an_toan,press,20.0,2,True
+HDBank,Công nghệ,an_toan,reports,17.5,1,True
+HDBank,Công nghệ,ha_tang,press,20.0,2,False
+HDBank,Công nghệ,ha_tang,reports,20.0,1,True
+HDBank,Dữ liệu,nen_tang_du_lieu,reports,20.0,1,False
+HDBank,Dữ liệu,quan_tri_du_lieu,reports,20.0,1,False
+HDBank,Dữ liệu,ung_dung_du_lieu,reports,20.0,1,True
+HDBank,Khách hàng,ho_tro,press,20.0,1,False
+HDBank,Khách hàng,ho_tro,reviews,3.8462,13,True
+HDBank,Khách hàng,tiep_can,press,20.0,1,True
+HDBank,Khách hàng,tiep_can,reports,20.0,1,False
+HDBank,Khách hàng,tiep_can,reviews,2.5,8,True
+HDBank,Khách hàng,trai_nghiem,press,20.0,4,True
+HDBank,Khách hàng,trai_nghiem,reports,17.7949,1,True
+HDBank,Khách hàng,trai_nghiem,reviews,3.0868,312,True
+VCB,Chiến lược,dinh_huong,reports,20.0,1,True
+VCB,Công nghệ,an_toan,press,18.0,5,True
+VCB,Công nghệ,an_toan,reports,16.6667,1,True
+VCB,Công nghệ,ha_tang,reports,20.0,1,True
+VCB,Dữ liệu,nen_tang_du_lieu,reports,20.0,1,False
+VCB,Dữ liệu,ung_dung_du_lieu,press,6.6667,3,False
+VCB,Dữ liệu,ung_dung_du_lieu,reports,20.0,1,True
+VCB,Khách hàng,ho_tro,reports,20.0,1,False
+VCB,Khách hàng,ho_tro,reviews,4.0741,54,True
+VCB,Khách hàng,tiep_can,press,20.0,4,True
+VCB,Khách hàng,tiep_can,reports,20.0,1,False
+VCB,Khách hàng,tiep_can,reviews,7.3759,47,True
+VCB,Khách hàng,trai_nghiem,press,20.0,4,True
+VCB,Khách hàng,trai_nghiem,reports,16.0,1,True
+VCB,Khách hàng,trai_nghiem,reviews,2.7374,2978,True
+VNG (VNZ),Chiến lược,dinh_huong,press,20.0,4,False
+VNG (VNZ),Chiến lược,dinh_huong,reports,20.0,1,True
+VNG (VNZ),Chiến lược,nguon_luc,press,0.0,1,False
+VNG (VNZ),Chiến lược,nguon_luc,reports,20.0,1,False
+VNG (VNZ),Công nghệ,an_toan,press,20.0,6,True
+VNG (VNZ),Công nghệ,an_toan,reports,20.0,1,True
+VNG (VNZ),Công nghệ,ha_tang,reports,0.0,1,True
+VNG (VNZ),Dữ liệu,ung_dung_du_lieu,press,20.0,3,False
+VNG (VNZ),Dữ liệu,ung_dung_du_lieu,reports,18.1818,1,True
+VNG (VNZ),Khách hàng,ho_tro,reviews,5.3455,82,True
+VNG (VNZ),Khách hàng,tiep_can,press,17.5,8,True
+VNG (VNZ),Khách hàng,tiep_can,reports,20.0,1,False
+VNG (VNZ),Khách hàng,tiep_can,reviews,11.4247,124,True
+VNG (VNZ),Khách hàng,trai_nghiem,press,19.2308,13,True
+VNG (VNZ),Khách hàng,trai_nghiem,reports,17.5,1,True
+VNG (VNZ),Khách hàng,trai_nghiem,reviews,14.7998,4197,True
+VPBank,Chiến lược,dinh_huong,press,20.0,4,False
+VPBank,Chiến lược,dinh_huong,reports,18.5714,1,True
+VPBank,Chiến lược,quan_tri,reports,20.0,1,False
+VPBank,Công nghệ,an_toan,press,15.0,2,True
+VPBank,Công nghệ,an_toan,reports,17.0,1,True
+VPBank,Công nghệ,ha_tang,reports,20.0,1,True
+VPBank,Công nghệ,ket_noi,reports,20.0,1,False
+VPBank,Dữ liệu,nen_tang_du_lieu,reports,20.0,1,False
+VPBank,Dữ liệu,quan_tri_du_lieu,reports,20.0,1,False
+VPBank,Dữ liệu,ung_dung_du_lieu,reports,19.4624,1,True
+VPBank,Khách hàng,ho_tro,reviews,3.7571,59,True
+VPBank,Khách hàng,tiep_can,press,17.5,4,True
+VPBank,Khách hàng,tiep_can,reports,20.0,1,False
+VPBank,Khách hàng,tiep_can,reviews,5.4667,25,True
+VPBank,Khách hàng,trai_nghiem,press,16.25,8,True
+VPBank,Khách hàng,trai_nghiem,reports,10.0,2,True
+VPBank,Khách hàng,trai_nghiem,reviews,4.3073,901,True

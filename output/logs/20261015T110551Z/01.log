@@ -1,0 +1,28 @@
+Dòng thô: 250
+Sau làm sạch: 250
+
+== Số bài theo mã cổ phiếu x loại ==
+type    award  press  speech
+ticker                      
+ACB        13     25      12
+HDB        24     18       8
+VCB        15     29       6
+VNG         9     37       4
+VPB        14     27       9
+
+== Tỷ lệ bài có full text (nếu ~0% thì đang quét theo tiêu đề) ==
+ticker
+ACB    94.0
+HDB    94.0
+VCB    96.0
+VNG    90.0
+VPB    92.0
+Name: has_fulltext, dtype: float64
+
+== Mật độ từ khóa /1000 từ và % bài có từ khóa ==
+  ticker  n_articles  mật_độ_/1000từ  %bài_có_≥1_từ_khóa
+0    ACB          50            2.06                36.0
+1    HDB          50            2.89                48.0
+2    VCB          50            3.66                62.0
+3    VNG          50            5.52                68.0
+4    VPB          50            2.25                50.0

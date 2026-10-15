@@ -1,0 +1,14 @@
+{
+  "created_at_utc": "2026-10-14T18:08:37.533965+00:00",
+  "selected": 250,
+  "statuses": {
+    "success": 233,
+    "too_short": 9,
+    "http_error": 6,
+    "redirected_to_home": 1,
+    "entity_mismatch": 1
+  },
+  "workers": 3,
+  "max_attempts": 2,
+  "quality_gate": ">=100 whitespace words, >=600 characters, entity alias present, not homepage; human QA still required"
+}

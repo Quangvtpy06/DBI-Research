@@ -1,0 +1,4251 @@
+[
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 2,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=2",
+    "groups": {
+      "ha_tang": [
+        "cloud"
+      ],
+      "khach_hang": [
+        "zalopay"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 3,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=3",
+    "groups": {
+      "khach_hang": [
+        "zalopay"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 4,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=4",
+    "groups": {
+      "khach_hang": [
+        "zalopay"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 6,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=6",
+    "groups": {
+      "ha_tang": [
+        "cloud",
+        "llm"
+      ],
+      "khach_hang": [
+        "người dùng",
+        "zalopay"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 7,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=7",
+    "groups": {
+      "tai_chinh": [
+        "cntt"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 8,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=8",
+    "groups": {
+      "khach_hang": [
+        "zalopay"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 10,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=10",
+    "groups": {
+      "khach_hang": [
+        "zalopay"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 11,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=11",
+    "groups": {
+      "khach_hang": [
+        "zalopay"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 12,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=12",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số",
+        "ai-first"
+      ],
+      "ha_tang": [
+        "cloud"
+      ],
+      "khach_hang": [
+        "zalopay"
+      ],
+      "tai_chinh": [
+        "cntt"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 13,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=13",
+    "groups": {
+      "chien_luoc": [
+        "ai-first"
+      ],
+      "ha_tang": [
+        "genai",
+        "llm"
+      ],
+      "khach_hang": [
+        "người dùng"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 14,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=14",
+    "groups": {
+      "chien_luoc": [
+        "ai-first"
+      ],
+      "ha_tang": [
+        "genai",
+        "llm"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 15,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=15",
+    "groups": {
+      "khach_hang": [
+        "zalopay"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 16,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=16",
+    "groups": {
+      "khach_hang": [
+        "người dùng"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 17,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=17",
+    "groups": {
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 18,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=18",
+    "groups": {
+      "khach_hang": [
+        "người dùng"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 19,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=19",
+    "groups": {
+      "chien_luoc": [
+        "ai-first"
+      ],
+      "khach_hang": [
+        "người dùng",
+        "digital"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 20,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=20",
+    "groups": {
+      "khach_hang": [
+        "người dùng",
+        "zalopay"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 21,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=21",
+    "groups": {
+      "khach_hang": [
+        "người dùng",
+        "zalopay"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 22,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=22",
+    "groups": {
+      "chien_luoc": [
+        "ai-first"
+      ],
+      "ha_tang": [
+        "cloud"
+      ],
+      "tai_chinh": [
+        "cntt"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 23,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=23",
+    "groups": {
+      "ha_tang": [
+        "cloud",
+        "llm"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 25,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=25",
+    "groups": {
+      "ha_tang": [
+        "cloud"
+      ],
+      "khach_hang": [
+        "người dùng",
+        "zalopay"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 26,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=26",
+    "groups": {
+      "khach_hang": [
+        "người dùng",
+        "zalopay"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 27,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=27",
+    "groups": {
+      "khach_hang": [
+        "người dùng",
+        "zalopay"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 28,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=28",
+    "groups": {
+      "khach_hang": [
+        "người dùng"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 30,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=30",
+    "groups": {
+      "khach_hang": [
+        "người dùng",
+        "zalopay"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 31,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=31",
+    "groups": {
+      "khach_hang": [
+        "zalopay"
+      ],
+      "nhan_su": [
+        "nhân sự công nghệ"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 35,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=35",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ],
+      "tai_chinh": [
+        "cntt"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 37,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=37",
+    "groups": {
+      "khach_hang": [
+        "người dùng"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 38,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=38",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 41,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=41",
+    "groups": {
+      "khach_hang": [
+        "người dùng"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 42,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=42",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "ha_tang": [
+        "cloud"
+      ],
+      "khach_hang": [
+        "người dùng",
+        "zalopay"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 43,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=43",
+    "groups": {
+      "khach_hang": [
+        "người dùng"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 45,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=45",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 48,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=48",
+    "groups": {
+      "khach_hang": [
+        "zalopay"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 50,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=50",
+    "groups": {
+      "tai_chinh": [
+        "cntt"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 54,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=54",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ],
+      "tai_chinh": [
+        "cntt"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 59,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=59",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 72,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=72",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 75,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=75",
+    "groups": {
+      "khach_hang": [
+        "người dùng",
+        "zalopay"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 77,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=77",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 78,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=78",
+    "groups": {
+      "khach_hang": [
+        "người dùng",
+        "zalopay"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 81,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=81",
+    "groups": {
+      "ha_tang": [
+        "cloud"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 82,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=82",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 87,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=87",
+    "groups": {
+      "khach_hang": [
+        "người dùng"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 90,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=90",
+    "groups": {
+      "ha_tang": [
+        "cloud"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 98,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=98",
+    "groups": {
+      "ha_tang": [
+        "cloud"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 100,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=100",
+    "groups": {
+      "ha_tang": [
+        "cloud"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 102,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=102",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 103,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=103",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VNZ_AR_2025",
+    "symbol": "VNZ",
+    "period": "BCTN 2025",
+    "pdf_page": 104,
+    "source_url": "https://corp.vcdn.vn/products/upload/vng/source/Legal/%5BVIE-1%5D%20ANNUAL%20REPORT%202025.pdf#page=104",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 3,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=3",
+    "groups": {
+      "ha_tang": [
+        "genai",
+        "llm",
+        "big data"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 5,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=5",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "ha_tang": [
+        "genai"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 6,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=6",
+    "groups": {
+      "ha_tang": [
+        "genai"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 9,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=9",
+    "groups": {
+      "ha_tang": [
+        "genai",
+        "big data"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 20,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=20",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "van_hanh": [
+        "tự động hóa",
+        "số hóa quy trình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 21,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=21",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 22,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=22",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 23,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=23",
+    "groups": {
+      "ha_tang": [
+        "iso 27001",
+        "pci-dss"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 26,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=26",
+    "groups": {
+      "khach_hang": [
+        "neo"
+      ],
+      "van_hanh": [
+        "số hóa quy trình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 28,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=28",
+    "groups": {
+      "khach_hang": [
+        "neo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 29,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=29",
+    "groups": {
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 31,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=31",
+    "groups": {
+      "khach_hang": [
+        "digital"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 32,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=32",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 33,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=33",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 34,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=34",
+    "groups": {
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 36,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=36",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 37,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=37",
+    "groups": {
+      "khach_hang": [
+        "kênh số"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 38,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=38",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "ha_tang": [
+        "iso 27001",
+        "pci-dss"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 39,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=39",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 40,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=40",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "ha_tang": [
+        "genai"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 41,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=41",
+    "groups": {
+      "ha_tang": [
+        "core banking",
+        "genai",
+        "pci dss"
+      ],
+      "khach_hang": [
+        "ekyc",
+        "neo"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 42,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=42",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "ha_tang": [
+        "genai",
+        "big data"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 43,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=43",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "ha_tang": [
+        "genai"
+      ],
+      "khach_hang": [
+        "digital"
+      ],
+      "van_hanh": [
+        "tự động hóa",
+        "số hóa quy trình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 44,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=44",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 46,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=46",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "ha_tang": [
+        "core banking",
+        "genai",
+        "llm"
+      ],
+      "khach_hang": [
+        "người dùng"
+      ],
+      "van_hanh": [
+        "tự động hóa",
+        "số hóa quy trình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 48,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=48",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "khach_hang": [
+        "kênh số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 49,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=49",
+    "groups": {
+      "khach_hang": [
+        "người dùng"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 50,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=50",
+    "groups": {
+      "khach_hang": [
+        "người dùng"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 51,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=51",
+    "groups": {
+      "khach_hang": [
+        "neo"
+      ],
+      "tai_chinh": [
+        "cir"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 52,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=52",
+    "groups": {
+      "khach_hang": [
+        "neo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 53,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=53",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ],
+      "tai_chinh": [
+        "cir"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 54,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=54",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "khach_hang": [
+        "kênh số",
+        "digital"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 57,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=57",
+    "groups": {
+      "khach_hang": [
+        "giao dịch số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 60,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=60",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 64,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=64",
+    "groups": {
+      "ha_tang": [
+        "cloud"
+      ],
+      "khach_hang": [
+        "người dùng"
+      ],
+      "tai_chinh": [
+        "cir"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 66,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=66",
+    "groups": {
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 67,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=67",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 72,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=72",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 74,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=74",
+    "groups": {
+      "ha_tang": [
+        "ngân hàng lõi"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 82,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=82",
+    "groups": {
+      "tai_chinh": [
+        "software"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 83,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=83",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 85,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=85",
+    "groups": {
+      "khach_hang": [
+        "người dùng"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 88,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=88",
+    "groups": {
+      "ha_tang": [
+        "sinh trắc",
+        "iso 27001",
+        "pci-dss"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 95,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=95",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 98,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=98",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 102,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=102",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 103,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=103",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 113,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=113",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 114,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=114",
+    "groups": {
+      "khach_hang": [
+        "ekyc",
+        "neo"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 115,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=115",
+    "groups": {
+      "khach_hang": [
+        "neo"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 117,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=117",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 118,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=118",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 123,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=123",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 132,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=132",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 140,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=140",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 143,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=143",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 145,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=145",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 150,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=150",
+    "groups": {
+      "tai_chinh": [
+        "chi phí công nghệ"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_AR_2025",
+    "symbol": "VPB",
+    "period": "BCTN 2025",
+    "pdf_page": 153,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-thuong-nien/2025/bctc-2025-0605.pdf#page=153",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 3,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=3",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 4,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=4",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 7,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=7",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 8,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=8",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "khach_hang": [
+        "acb one"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 11,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=11",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 13,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=13",
+    "groups": {
+      "khach_hang": [
+        "digital",
+        "acb one"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 14,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=14",
+    "groups": {
+      "khach_hang": [
+        "người dùng"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 15,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=15",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 16,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=16",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ],
+      "van_hanh": [
+        "tự động hóa",
+        "số hóa quy trình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 19,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=19",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ],
+      "tai_chinh": [
+        "cntt"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 21,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=21",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 22,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=22",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 24,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=24",
+    "groups": {
+      "tai_chinh": [
+        "cir"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 26,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=26",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "ha_tang": [
+        "genai",
+        "big data"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 27,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=27",
+    "groups": {
+      "ha_tang": [
+        "llm"
+      ],
+      "khach_hang": [
+        "người dùng",
+        "acb one"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 28,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=28",
+    "groups": {
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 29,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=29",
+    "groups": {
+      "ha_tang": [
+        "genai"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 35,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=35",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 37,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=37",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "ha_tang": [
+        "cloud",
+        "genai"
+      ],
+      "khach_hang": [
+        "giao dịch số"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 48,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=48",
+    "groups": {
+      "tai_chinh": [
+        "cir",
+        "cost to income"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 49,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=49",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "ha_tang": [
+        "genai"
+      ],
+      "khach_hang": [
+        "giao dịch trực tuyến",
+        "kênh số",
+        "acb one"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 51,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=51",
+    "groups": {
+      "khach_hang": [
+        "giao dịch trực tuyến",
+        "acb one"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 52,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=52",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "tai_chinh": [
+        "cntt"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 53,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=53",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "tai_chinh": [
+        "đầu tư công nghệ"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 56,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=56",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 57,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=57",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 59,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=59",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 65,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=65",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 68,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=68",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 69,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=69",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 70,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=70",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 78,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=78",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 79,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=79",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 80,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=80",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 83,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=83",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 86,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=86",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 87,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=87",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 91,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=91",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 92,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=92",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 105,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=105",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 107,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=107",
+    "groups": {
+      "van_hanh": [
+        "tự động hóa",
+        "số hóa quy trình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 108,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=108",
+    "groups": {
+      "khach_hang": [
+        "kênh số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 111,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=111",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 118,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=118",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 132,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=132",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 140,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=140",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 142,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=142",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 165,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=165",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 178,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=178",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 179,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=179",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 184,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=184",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_AR_2025",
+    "symbol": "ACB",
+    "period": "BCTN 2025",
+    "pdf_page": 186,
+    "source_url": "https://acb.com.vn/acbwebsite/files/BCTN%202025.pdf#page=186",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 5,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=5",
+    "groups": {
+      "khach_hang": [
+        "kênh số",
+        "digital"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 6,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=6",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số",
+        "chiến lược số"
+      ],
+      "khach_hang": [
+        "kênh số"
+      ],
+      "tai_chinh": [
+        "cir"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 9,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=9",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 10,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=10",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 17,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=17",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 19,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=19",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "van_hanh": [
+        "số hóa quy trình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 20,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=20",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "khach_hang": [
+        "kênh số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 21,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=21",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 22,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=22",
+    "groups": {
+      "khach_hang": [
+        "giao dịch số",
+        "digital"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 25,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=25",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 26,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=26",
+    "groups": {
+      "khach_hang": [
+        "giao dịch số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 27,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=27",
+    "groups": {
+      "khach_hang": [
+        "người dùng"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 28,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=28",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 29,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=29",
+    "groups": {
+      "ha_tang": [
+        "core banking"
+      ],
+      "khach_hang": [
+        "digital"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ],
+      "van_hanh": [
+        "rlos",
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 30,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=30",
+    "groups": {
+      "ha_tang": [
+        "core banking"
+      ],
+      "khach_hang": [
+        "digital"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 31,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=31",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "ha_tang": [
+        "big data"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 32,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=32",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "khach_hang": [
+        "digital"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 33,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=33",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 34,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=34",
+    "groups": {
+      "ha_tang": [
+        "big data"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 39,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=39",
+    "groups": {
+      "tai_chinh": [
+        "cir"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 41,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=41",
+    "groups": {
+      "khach_hang": [
+        "người dùng"
+      ],
+      "van_hanh": [
+        "rlos"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 42,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=42",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "ha_tang": [
+        "core banking"
+      ],
+      "khach_hang": [
+        "kênh số",
+        "người dùng",
+        "digital",
+        "zalopay"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 43,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=43",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "khach_hang": [
+        "kênh số",
+        "digital"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 45,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=45",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 46,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=46",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "ha_tang": [
+        "open api"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 47,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=47",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "khach_hang": [
+        "kênh số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 48,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=48",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "khach_hang": [
+        "giao dịch trực tuyến"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 49,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=49",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "ha_tang": [
+        "ngân hàng lõi"
+      ],
+      "khach_hang": [
+        "kênh số",
+        "digital"
+      ],
+      "van_hanh": [
+        "rlos"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 51,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=51",
+    "groups": {
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 52,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=52",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 54,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=54",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ],
+      "tai_chinh": [
+        "đầu tư công nghệ"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 56,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=56",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "khach_hang": [
+        "digital"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 59,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=59",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "ha_tang": [
+        "big data",
+        "sinh trắc"
+      ],
+      "khach_hang": [
+        "digital",
+        "ekyc"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ],
+      "van_hanh": [
+        "tự động hóa",
+        "số hóa quy trình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 60,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=60",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "khach_hang": [
+        "digital"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 63,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=63",
+    "groups": {
+      "khach_hang": [
+        "giao dịch số",
+        "kênh số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 64,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=64",
+    "groups": {
+      "ha_tang": [
+        "big data"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 65,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=65",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 66,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=66",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 67,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=67",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 68,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=68",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 69,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=69",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 70,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=70",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "ha_tang": [
+        "core banking"
+      ],
+      "khach_hang": [
+        "kênh số",
+        "digital"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 79,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=79",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 82,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=82",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 85,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=85",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 91,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=91",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 92,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=92",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 93,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=93",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 94,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=94",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 95,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=95",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 97,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=97",
+    "groups": {
+      "khach_hang": [
+        "giao dịch online"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 98,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=98",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "khach_hang": [
+        "giao dịch số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 99,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=99",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 104,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=104",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 113,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=113",
+    "groups": {
+      "tai_chinh": [
+        "phần mềm máy tính",
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_AR_2025",
+    "symbol": "HDB",
+    "period": "Annual Report 2025",
+    "pdf_page": 123,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank/bctn/2025/v1/assets/pdf/BCTN-HDBANK-2025.pdf#page=123",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "HDB_FS_2026_H1",
+    "symbol": "HDB",
+    "period": "Consolidated financial statements H1 2026",
+    "pdf_page": 46,
+    "source_url": "https://cdn.hdbank.com.vn/hdbank-file/investor/editor/5E3Kb7vPGM5lAqmqCb5e20260825095107/BAOCAOTAICHINHSOATXETBANNIENNAM2026HOPNHATVN_1787626347024.pdf#page=46",
+    "groups": {
+      "khach_hang": [
+        "neo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "ACB_FS_2026_H1",
+    "symbol": "ACB",
+    "period": "Consolidated financial statements H1 2026",
+    "pdf_page": 34,
+    "source_url": "https://acb.com.vn/acbwebsite/files/ACB BCTC hop nhat ban nien 2026_ban tra cuu.pdf#page=34",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_FS_2026_H1",
+    "symbol": "ACB",
+    "period": "Consolidated financial statements H1 2026",
+    "pdf_page": 50,
+    "source_url": "https://acb.com.vn/acbwebsite/files/ACB BCTC hop nhat ban nien 2026_ban tra cuu.pdf#page=50",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "ACB_FS_2026_H1",
+    "symbol": "ACB",
+    "period": "Consolidated financial statements H1 2026",
+    "pdf_page": 55,
+    "source_url": "https://acb.com.vn/acbwebsite/files/ACB BCTC hop nhat ban nien 2026_ban tra cuu.pdf#page=55",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 4,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=4",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 5,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=5",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 7,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=7",
+    "groups": {
+      "ha_tang": [
+        "core banking",
+        "ngân hàng lõi"
+      ],
+      "khach_hang": [
+        "digibank"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 8,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=8",
+    "groups": {
+      "ha_tang": [
+        "core banking",
+        "ngân hàng lõi"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 10,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=10",
+    "groups": {
+      "tai_chinh": [
+        "cntt"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 13,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=13",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 19,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=19",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "khach_hang": [
+        "kênh số"
+      ],
+      "van_hanh": [
+        "stp"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 20,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=20",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "ha_tang": [
+        "sinh trắc"
+      ],
+      "khach_hang": [
+        "digital",
+        "digibank"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 21,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=21",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "khach_hang": [
+        "kênh số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 22,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=22",
+    "groups": {
+      "tai_chinh": [
+        "cir"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 23,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=23",
+    "groups": {
+      "tai_chinh": [
+        "cntt"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 24,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=24",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 26,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=26",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 27,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=27",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 28,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=28",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 35,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=35",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 36,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=36",
+    "groups": {
+      "chien_luoc": [
+        "digital transformation"
+      ],
+      "khach_hang": [
+        "digital"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 37,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=37",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 39,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=39",
+    "groups": {
+      "khach_hang": [
+        "giao dịch số",
+        "neo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 40,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=40",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 41,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=41",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 42,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=42",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 45,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=45",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 46,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=46",
+    "groups": {
+      "khach_hang": [
+        "giao dịch số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 50,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=50",
+    "groups": {
+      "khach_hang": [
+        "digibank"
+      ],
+      "van_hanh": [
+        "tự động hóa"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 51,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=51",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 54,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=54",
+    "groups": {
+      "khach_hang": [
+        "kênh số",
+        "ekyc"
+      ],
+      "van_hanh": [
+        "rlos"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 55,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=55",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 56,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=56",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "khach_hang": [
+        "giao dịch số",
+        "người dùng",
+        "digibank"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 57,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=57",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "ha_tang": [
+        "sinh trắc",
+        "nfc"
+      ],
+      "khach_hang": [
+        "giao dịch trực tuyến",
+        "kênh số",
+        "digibank"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 58,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=58",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 61,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=61",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 63,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=63",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 65,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=65",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 67,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=67",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ],
+      "khach_hang": [
+        "người dùng"
+      ],
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 68,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=68",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": false
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 69,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=69",
+    "groups": {
+      "chien_luoc": [
+        "chuyển đổi số"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 76,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=76",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 79,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=79",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 84,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=84",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VCB_AR_2025",
+    "symbol": "VCB",
+    "period": "Annual Report 2025",
+    "pdf_page": 94,
+    "source_url": "https://portal.vietcombank.com.vn/VCBDigital/2025/BCTN/pdf/vi/VN_BCTN_Full.pdf#page=94",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_FS_2026_H1",
+    "symbol": "VPB",
+    "period": "BCTC HN H1 2026",
+    "pdf_page": 7,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-tai-chinh/vas/2026/3.-BCTC-hop-nhat--ban-tra-cuu-.pdf#page=7",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_FS_2026_H1",
+    "symbol": "VPB",
+    "period": "BCTC HN H1 2026",
+    "pdf_page": 28,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-tai-chinh/vas/2026/3.-BCTC-hop-nhat--ban-tra-cuu-.pdf#page=28",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_FS_2026_H1",
+    "symbol": "VPB",
+    "period": "BCTC HN H1 2026",
+    "pdf_page": 48,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-tai-chinh/vas/2026/3.-BCTC-hop-nhat--ban-tra-cuu-.pdf#page=48",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_FS_2026_H1",
+    "symbol": "VPB",
+    "period": "BCTC HN H1 2026",
+    "pdf_page": 56,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-tai-chinh/vas/2026/3.-BCTC-hop-nhat--ban-tra-cuu-.pdf#page=56",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_FS_2026_H1",
+    "symbol": "VPB",
+    "period": "BCTC HN H1 2026",
+    "pdf_page": 57,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-tai-chinh/vas/2026/3.-BCTC-hop-nhat--ban-tra-cuu-.pdf#page=57",
+    "groups": {
+      "tai_chinh": [
+        "tài sản cố định vô hình"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_FS_2026_H1",
+    "symbol": "VPB",
+    "period": "BCTC HN H1 2026",
+    "pdf_page": 76,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-tai-chinh/vas/2026/3.-BCTC-hop-nhat--ban-tra-cuu-.pdf#page=76",
+    "groups": {
+      "tai_chinh": [
+        "chi phí công nghệ"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  },
+  {
+    "document_id": "VPB_FS_2026_H1",
+    "symbol": "VPB",
+    "period": "BCTC HN H1 2026",
+    "pdf_page": 86,
+    "source_url": "https://www.vpbank.com.vn/-/media/vpbank-latest/5nha-dau-tu/bao-cao-tai-chinh/vas/2026/3.-BCTC-hop-nhat--ban-tra-cuu-.pdf#page=86",
+    "groups": {
+      "nhan_su": [
+        "đào tạo"
+      ]
+    },
+    "status": "candidate_requires_review",
+    "contains_older_year": true
+  }
+]

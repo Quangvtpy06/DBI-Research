@@ -1,0 +1,46 @@
+[
+  {
+    "old": "crawl_events_company_p2/bank_project/fulltext_pilot_50",
+    "new": "output/processed/press_2_fulltext"
+  },
+  {
+    "old": "crawl_events_company_p2/bank_project/data",
+    "new": "output/raw/press_2"
+  },
+  {
+    "old": "dbi_public_text_output_v2",
+    "new": "output/legacy/five_pillars"
+  },
+  {
+    "old": "dbi_four_pillars_output",
+    "new": "output/results"
+  },
+  {
+    "old": "evidence_pilot_output",
+    "new": "output/processed/evidence"
+  },
+  {
+    "old": "sentiment_output",
+    "new": "output/processed/sentiment"
+  },
+  {
+    "old": "output_dbi_2025_2026",
+    "new": "output/raw/reports"
+  },
+  {
+    "old": "data_output",
+    "new": "output/raw/app_reviews"
+  },
+  {
+    "old": "news_output",
+    "new": "output/raw/press_1"
+  },
+  {
+    "old": "analysis_output",
+    "new": "output/legacy/text_mining"
+  },
+  {
+    "old": "bctc_tai_ve",
+    "new": "output/raw/financial_legacy"
+  }
+]

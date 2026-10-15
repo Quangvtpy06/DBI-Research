@@ -1,0 +1,26 @@
+{
+  "model": "DBI bốn trụ cột dựa trên sentiment công khai",
+  "weights": {
+    "Công nghệ": 40,
+    "Khách hàng": 20,
+    "Dữ liệu": 30,
+    "Chiến lược": 10
+  },
+  "score_scale": "0–100 mỗi trụ cột",
+  "formula": "R=(40*CongNghe+20*KhachHang+30*DuLieu+10*ChienLuoc)/100",
+  "thresholds": {
+    "1": "0 <= R < 25",
+    "2": "25 <= R < 50",
+    "3": "50 <= R < 75",
+    "4": "75 <= R < 100",
+    "5": "R = 100 exactly"
+  },
+  "labels": {
+    "1": "Mức cơ bản",
+    "2": "Mức đang phát triển",
+    "3": "Mức phát triển",
+    "4": "Mức nâng cao",
+    "5": "Mức dẫn đầu"
+  },
+  "notes": "Phân mức trên giá trị chưa làm tròn; không chia thêm cho 4; không còn Vận hành ngay từ bước gán nhãn."
+}

@@ -1,0 +1,2 @@
+﻿entity,stage,source,url,error_type,message
+VPBank,fetch_article_metadata_kept,www.vietnamplus.vn,https://www.vietnamplus.vn/vpbank-9pay-noi-gi-ve-su-co-an-ninh-mang-xay-ra-tai-cic-post1061509.vnp,ConnectionError,"HTTPSConnectionPool(host='www.vietnamplus.vn', port=443): Max retries exceeded with url: /vpbank-9pay-noi-gi-ve-su-co-an-ninh-mang-xay-ra-tai-cic-post1061509.vnp (Caused by ReadTimeoutError(""HTTPSConnectionPool(host='www.vietnamplus.vn', port=443): Read timed out. (read timeout=15)""))"

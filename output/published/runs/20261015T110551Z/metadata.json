@@ -1,0 +1,123 @@
+{
+  "created_at_utc": "2026-10-15T11:06:02.102763+00:00",
+  "config": {
+    "model": "DBI public-text four pillars, v3",
+    "company_mapping": {
+      "ZaloPay": "VNG (VNZ)",
+      "VNG": "VNG (VNZ)",
+      "VPBank": "VPBank",
+      "VCB": "VCB",
+      "HDBank": "HDBank",
+      "ACB": "ACB"
+    },
+    "pillars": {
+      "Khách hàng": {
+        "max_score": 20,
+        "indicators": {
+          "trai_nghiem": "trải nghiệm|giao diện|dễ dùng|khó dùng|dễ sử dụng|tiện lợi|hài lòng|ổn định|lỗi|lag|crash|chậm|mượt|không vào được",
+          "ho_tro": "hỗ trợ khách hàng|chăm sóc khách hàng|tổng đài|hotline|CSKH",
+          "tiep_can": "khách hàng số|người dùng|giao dịch số|kênh số|onboarding|mở tài khoản|eKYC|Digibank|ACB ONE|VPBank NEO"
+        }
+      },
+      "Công nghệ": {
+        "max_score": 20,
+        "indicators": {
+          "ha_tang": "cloud|đám mây|core banking|ngân hàng lõi|trung tâm dữ liệu|hạ tầng công nghệ",
+          "ket_noi": "open banking|ngân hàng mở|open api|(?-i:\\bAPI\\b)|kết nối hệ thống",
+          "an_toan": "bảo mật|an ninh mạng|sinh trắc|xác thực|tấn công mạng|rò rỉ dữ liệu|lộ dữ liệu"
+        }
+      },
+      "Dữ liệu": {
+        "max_score": 20,
+        "indicators": {
+          "nen_tang_du_lieu": "data lake|data warehouse|kho dữ liệu|nền tảng dữ liệu|dữ liệu lớn|big data",
+          "quan_tri_du_lieu": "quản trị dữ liệu|chất lượng dữ liệu|quản lý dữ liệu|bảo vệ dữ liệu|dữ liệu cá nhân",
+          "ung_dung_du_lieu": "phân tích dữ liệu|trí tuệ nhân tạo|GenAI|học máy|machine learning|(?-i:\\bAI\\b)"
+        }
+      },
+      "Chiến lược": {
+        "max_score": 20,
+        "indicators": {
+          "dinh_huong": "chiến lược|lộ trình|kế hoạch chuyển đổi|mục tiêu chuyển đổi|định hướng số",
+          "quan_tri": "ban chuyển đổi|ủy ban chuyển đổi|quản trị số|quản trị công nghệ|quản lý công nghệ",
+          "nguon_luc": "đầu tư công nghệ|đầu tư cho công nghệ|ngân sách|nhân sự công nghệ|nhân lực công nghệ|đào tạo số|năng lực số"
+        }
+      }
+    }
+  },
+  "audit": {
+    "reports:documents": 1131,
+    "no_sentiment_signal_excluded": 1891,
+    "long_segments_excluded": 287,
+    "historical_sentence_excluded": 132,
+    "award_promotion_mixed_excluded": 110,
+    "press:documents": 247,
+    "ambiguous_press_sentence_excluded": 505,
+    "duplicate_quotes_excluded": 3424,
+    "reviews:documents": 115546
+  },
+  "unique_signals": 10543,
+  "common_cells": [
+    [
+      "Chiến lược",
+      "dinh_huong",
+      "reports"
+    ],
+    [
+      "Công nghệ",
+      "an_toan",
+      "press"
+    ],
+    [
+      "Công nghệ",
+      "an_toan",
+      "reports"
+    ],
+    [
+      "Công nghệ",
+      "ha_tang",
+      "reports"
+    ],
+    [
+      "Dữ liệu",
+      "ung_dung_du_lieu",
+      "reports"
+    ],
+    [
+      "Khách hàng",
+      "ho_tro",
+      "reviews"
+    ],
+    [
+      "Khách hàng",
+      "tiep_can",
+      "press"
+    ],
+    [
+      "Khách hàng",
+      "tiep_can",
+      "reviews"
+    ],
+    [
+      "Khách hàng",
+      "trai_nghiem",
+      "press"
+    ],
+    [
+      "Khách hàng",
+      "trai_nghiem",
+      "reports"
+    ],
+    [
+      "Khách hàng",
+      "trai_nghiem",
+      "reviews"
+    ]
+  ],
+  "formula": "10*(1+mean tone), equal indicators, equal source groups inside indicator; only common cells across five companies",
+  "limitations": "Không phải năng lực số đã xác minh. Exact dedup và near-duplicate Jaccard 5-token>=0.85 với số liệu trùng; chưa gom hoàn toàn cùng sự kiện. Kết quả vẫn chịu thiên lệch nội dung PR và mẫu quan sát.",
+  "inputs": [
+    "output/processed/evidence/source_documents.csv (nonreview)",
+    "output/processed/sentiment/documents.csv (all app reviews)"
+  ]
+}

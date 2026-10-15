@@ -1,0 +1,41 @@
+{
+  "start_date": "2025-01-01",
+  "end_date": "2026-10-13",
+  "generated_at_utc": "2026-10-13T11:59:50.552915+00:00",
+  "max_google_reviews_per_app": 1000000,
+  "max_apple_reviews_per_app": 500,
+  "review_rows": 115555,
+  "error_rows": 0,
+  "apps": [
+    {
+      "entity": "ZaloPay",
+      "google_id": "vn.com.vng.zalopay",
+      "apple_id": "1112407590",
+      "apple_slug": "zalopay-thanh-toan-tai-chinh"
+    },
+    {
+      "entity": "VPBank",
+      "google_id": "com.vnpay.vpbankonline",
+      "apple_id": "1209349510",
+      "apple_slug": "vpbank-neo"
+    },
+    {
+      "entity": "VCB",
+      "google_id": "com.VCB",
+      "apple_id": "561433133",
+      "apple_slug": "vcb-digibank"
+    },
+    {
+      "entity": "HDBank",
+      "google_id": "com.vnpay.hdbank",
+      "apple_id": "1461658565",
+      "apple_slug": "hdbank"
+    },
+    {
+      "entity": "ACB",
+      "google_id": "mobile.acb.com.vn",
+      "apple_id": "950141024",
+      "apple_slug": "acb-one"
+    }
+  ]
+}

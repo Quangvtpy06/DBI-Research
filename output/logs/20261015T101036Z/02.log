@@ -1,0 +1,19 @@
+{
+  "documents": 116072,
+  "sentences_exported": 95382,
+  "annotation_sample": 336,
+  "review_queue": 3496,
+  "audit": {
+    "app_review:input": 115555,
+    "app_review:no_relevant_sentence": 8,
+    "app_review:empty": 1,
+    "press_crawl_1:input": 17,
+    "press_crawl_2:input": 233,
+    "annual_report:input": 723,
+    "annual_report:no_relevant_sentence": 466,
+    "annual_report:empty": 2,
+    "financial_report:input": 410,
+    "financial_report:no_relevant_sentence": 388,
+    "annual_report:duplicate": 1
+  }
+}

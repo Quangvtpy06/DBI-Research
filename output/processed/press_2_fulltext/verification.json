@@ -1,0 +1,13 @@
+{
+  "checked": 250,
+  "statuses": {
+    "success": 233,
+    "too_short": 9,
+    "http_error": 6,
+    "redirected_to_home": 1,
+    "entity_mismatch": 1
+  },
+  "success_without_entity": 0,
+  "success_without_digital_hint": 69,
+  "distinct_success_content": 231
+}

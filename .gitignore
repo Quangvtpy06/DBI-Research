@@ -10,11 +10,6 @@ __pycache__/
 .ruff_cache/
 .cache/
 
-# Dữ liệu crawl, checkpoint, kết quả, snapshot và log được tạo khi chạy
-/output/
-*.log
-*.tmp
-*.part
 
 # Cấu hình cá nhân và bí mật (giữ .streamlit/config.toml)
 .env

@@ -1,0 +1,6 @@
+﻿ticker,selected,source_count,success,success_percent,entity_not_found,statuses
+ACB,50,50,47,94.0,0,"{""success"": 47, ""too_short"": 3}"
+HDB,50,50,47,94.0,0,"{""success"": 47, ""http_error"": 1, ""too_short"": 2}"
+VCB,50,50,48,96.0,0,"{""success"": 48, ""http_error"": 1, ""too_short"": 1}"
+VNG,50,43,45,90.0,0,"{""http_error"": 3, ""success"": 45, ""redirected_to_home"": 1, ""too_short"": 1}"
+VPB,50,50,46,92.0,0,"{""success"": 46, ""http_error"": 1, ""too_short"": 2, ""entity_mismatch"": 1}"

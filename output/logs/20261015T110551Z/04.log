@@ -1,0 +1,67 @@
+[
+  {
+    "company": "HDBank",
+    "C\u00f4ng ngh\u1ec7": 96.875,
+    "Kh\u00e1ch h\u00e0ng": 47.8723,
+    "D\u1eef li\u1ec7u": 100.0,
+    "Chi\u1ebfn l\u01b0\u1ee3c": 100.0,
+    "R": 88.3245,
+    "R_exact": "88.32446411613078279487179487",
+    "level": 4,
+    "level_label": "M\u1ee9c n\u00e2ng cao",
+    "status": "provisional_public_text_readiness",
+    "rank": 1
+  },
+  {
+    "company": "VCB",
+    "C\u00f4ng ngh\u1ec7": 93.3333,
+    "Kh\u00e1ch h\u00e0ng": 51.1241,
+    "D\u1eef li\u1ec7u": 100.0,
+    "Chi\u1ebfn l\u01b0\u1ee3c": 100.0,
+    "R": 87.5582,
+    "R_exact": "87.55815892778798055921310167",
+    "level": 4,
+    "level_label": "M\u1ee9c n\u00e2ng cao",
+    "status": "provisional_public_text_readiness",
+    "rank": 2
+  },
+  {
+    "company": "VPBank",
+    "C\u00f4ng ngh\u1ec7": 90.0,
+    "Kh\u00e1ch h\u00e0ng": 42.3769,
+    "D\u1eef li\u1ec7u": 97.3118,
+    "Chi\u1ebfn l\u01b0\u1ee3c": 92.8571,
+    "R": 82.9546,
+    "R_exact": "82.95464463314947163488157734",
+    "level": 4,
+    "level_label": "M\u1ee9c n\u00e2ng cao",
+    "status": "provisional_public_text_readiness",
+    "rank": 3
+  },
+  {
+    "company": "ACB",
+    "C\u00f4ng ngh\u1ec7": 62.5,
+    "Kh\u00e1ch h\u00e0ng": 53.4587,
+    "D\u1eef li\u1ec7u": 90.3846,
+    "Chi\u1ebfn l\u01b0\u1ee3c": 100.0,
+    "R": 72.8071,
+    "R_exact": "72.80712230217670376334698017",
+    "level": 3,
+    "level_label": "M\u1ee9c ph\u00e1t tri\u1ec3n",
+    "status": "provisional_public_text_readiness",
+    "rank": 4
+  },
+  {
+    "company": "VNG (VNZ)",
+    "C\u00f4ng ngh\u1ec7": 50.0,
+    "Kh\u00e1ch h\u00e0ng": 61.6413,
+    "D\u1eef li\u1ec7u": 90.9091,
+    "Chi\u1ebfn l\u01b0\u1ee3c": 100.0,
+    "R": 69.601,
+    "R_exact": "69.60097998090967105337280019",
+    "level": 3,
+    "level_label": "M\u1ee9c ph\u00e1t tri\u1ec3n",
+    "status": "provisional_public_text_readiness",
+    "rank": 5
+  }
+]
