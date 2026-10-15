@@ -1,21 +1,21 @@
 # Python 3.12 (môi trường đang dùng: 3.12.5).
 # App Streamlit và biểu đồ
-streamlit==1.63.0
+streamlit
 plotly
-pandas==2.2.3
-numpy==2.1.2
-matplotlib==3.9.2
+pandas
+numpy
+matplotlib
 
 # Thu thập review, RSS và tải trang/PDF
-requests==2.32.3
-beautifulsoup4==4.12.3
-feedparser==6.0.11
-google-play-scraper==1.2.7
-PyMuPDF==1.28.2
+requests
+beautifulsoup4
+feedparser
+google-play-scraper
+PyMuPDF
 
 # Giải mã Google News và trích nội dung bài báo
-trafilatura==2.0.0
-googlenewsdecoder==0.2.1
+trafilatura
+googlenewsdecoder
 # Decoder 0.2.1 cần parser cũ, không dùng selectolax 1.x.
-selectolax==0.4.13
-lxml_html_clean==0.4.5
+selectolax
+lxml_html_clean
